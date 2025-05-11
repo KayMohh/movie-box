@@ -1,5 +1,5 @@
-const API_KEY = "a23d46de2728fc2b7f88e41097f75546"
-const BASE_URL = "https://api.themoviedb.org/3"
+const API_KEY = process.env.API_KEY
+const BASE_URL = process.env.BASE_URL
 
 
 
